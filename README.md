@@ -1,14 +1,2 @@
-#now-or-never
-
-A brief description of what the project does and who it`s for.
-
-##Table of contents
-
--[Installation](#installation)
--[Usage](#usage)
--[Contribution](#contribution)
--[License](#license)
-
-##Installation
-
-Instructions on how to install and set up the project.
+# Hi there 👋
+I'm Sospeter, a curious explorer learning GitHub from scratch!
